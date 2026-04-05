@@ -68,7 +68,7 @@
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item"><a class="nav-link" href="#inicio">Inicio</a></li>
                     <li class="nav-item"><a class="nav-link" href="#servicios">Servicios</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#galeria">GalerÌa</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#galeria">Galer√≠a</a></li>
                     <li class="nav-item"><a class="nav-link btn btn-primary text-white ms-lg-3 px-4" href="#contacto">Contacto</a></li>
                 </ul>
             </div>
@@ -77,8 +77,8 @@
 
     <header id="inicio" class="hero text-center">
         <div class="container">
-            <h1 class="display-2 fw-bold mb-4">InnovaciÛn Digital <br><span class="text-primary">al Alcance</span></h1>
-            <p class="lead mb-5 px-md-5">Desarrollamos soluciones web escalables utilizando metodologÌas ·giles y las ˙ltimas tecnologÌas del mercado.</p>
+            <h1 class="display-2 fw-bold mb-4">Innovaci√≥n Digital <br><span class="text-primary">al Alcance</span></h1>
+            <p class="lead mb-5 px-md-5">Desarrollamos soluciones web escalables utilizando metodolog√≠as √°giles y las √∫ltimas tecnolog√≠as del mercado.</p>
             <a href="#servicios" class="btn btn-primary btn-lg px-5">Ver Servicios</a>
         </div>
     </header>
@@ -94,8 +94,8 @@
                     <div class="card h-100 border-0 p-4">
                         <div class="card-body">
                             <i class="bi bi-laptop service-icon"></i>
-                            <h3 class="h5 mb-3">DiseÒo Front-end</h3>
-                            <p class="text-muted">Interfaces modernas con Bootstrap, garantizando adaptabilidad en cualquier dispositivo mÛvil.</p>
+                            <h3 class="h5 mb-3">Dise√±o Front-end</h3>
+                            <p class="text-muted">Interfaces modernas con Bootstrap, garantizando adaptabilidad en cualquier dispositivo m√≥vil.</p>
                         </div>
                     </div>
                 </div>
@@ -113,7 +113,7 @@
                         <div class="card-body">
                             <i class="bi bi-headset service-icon"></i>
                             <h3 class="h5 mb-3">Soporte Continuo</h3>
-                            <p class="text-muted">Aprendizaje continuo para ofrecerte las mejores soluciones y mantenimiento tÈcnico.</p>
+                            <p class="text-muted">Aprendizaje continuo para ofrecerte las mejores soluciones y mantenimiento t√©cnico.</p>
                         </div>
                     </div>
                 </div>
@@ -125,17 +125,17 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 mb-4 mb-lg-0">
-                    <h2 class="fw-bold mb-4">Procesos ¡giles en Video</h2>
-                    <p>En este proyecto ficticio, demostramos cÛmo la integraciÛn de elementos multimedia mejora la experiencia del usuario (UX). Utilizamos video embebido y optimizado.</p>
+                    <h2 class="fw-bold mb-4">Procesos √Ågiles en Video</h2>
+                    <p>En este proyecto ficticio, demostramos c√≥mo la integraci√≥n de elementos multimedia mejora la experiencia del usuario (UX). Utilizamos video embebido y optimizado.</p>
                     <ul class="list-unstyled">
-                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> MetodologÌa SCRUM aplicada.</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Metodolog√≠a SCRUM aplicada.</li>
                         <li><i class="bi bi-check-circle-fill text-primary me-2"></i> Entrega de valor iterativa.</li>
-                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> CÛdigo limpio y documentado.</li>
+                        <li><i class="bi bi-check-circle-fill text-primary me-2"></i> C√≥digo limpio y documentado.</li>
                     </ul>
                 </div>
                 <div class="col-lg-6">
                     <div class="ratio ratio-16x9 shadow rounded">
-                        <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="DemostraciÛn TÈcnica" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Demostraci√≥n T√©cnica" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -144,13 +144,13 @@
 
     <footer id="contacto" class="bg-dark text-white py-5">
         <div class="container text-center">
-            <h3 class="mb-4">øListo para empezar tu proyecto?</h3>
+            <h3 class="mb-4">¬øListo para empezar tu proyecto?</h3>
             <div class="d-flex justify-content-center gap-4 mb-4">
                 <a href="#" class="text-white h3"><i class="bi bi-instagram"></i></a>
                 <a href="#" class="text-white h3"><i class="bi bi-linkedin"></i></a>
                 <a href="#" class="text-white h3"><i class="bi bi-github"></i></a>
             </div>
-            <p class="text-muted mb-0">&copy; 2026 TechNova Soluciones Web. Desarrollado para Koala Entrevista TÈcnica.</p>
+            <p class="text-muted mb-0">&copy; 2026 TechNova Soluciones Web. Desarrollado para Koala Entrevista T√©cnica.</p>
         </div>
     </footer>
 
